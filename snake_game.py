@@ -1,8 +1,8 @@
 from turtle import Screen
 import time
-from day21_snake_class import Snake
-from day21_food_class import Food
-from day21_scoreboard_class import Scoreboard
+from snake_class import Snake
+from food_class import Food
+from scoreboard_class import Scoreboard
 screen = Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor("black")
